@@ -1,4 +1,4 @@
-tata cara menginstall aplikasi 
+Tata cara menginstall aplikasi 
 1. import file kasir.sql ke phpmyadmin anda
 2. buka folder application/config/database.php, dan ubah
     - hostname = localhost
@@ -9,3 +9,4 @@ tata cara menginstall aplikasi
 untuk user login aplikasi adalah
 user : ragamuliakusuma
 pass : ragamuliakusuma
+
